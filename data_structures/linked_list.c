@@ -6,3 +6,4 @@ typedef struct{
 typedef struct{
     Node* node; 
 } LinkedList;
+
